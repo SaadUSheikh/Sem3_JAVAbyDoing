@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7cf1c6c-4c1c-4c60-82f3-ae9f2ca12206" name="Changes" comment="Saad Java Projects">
+    <list default="true" id="c7cf1c6c-4c1c-4c60-82f3-ae9f2ca12206" name="Changes" comment="Saad Java Projects 2">
+      <change afterPath="$PROJECT_DIR$/src/DigitalClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GraphicalDigitalClock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +24,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -48,7 +50,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Owner/IdeaProjects/Sem3_2024"
+    "last_opened_file_path": "C:/Users/Owner/IdeaProjects/Sem3_JAVAbyDoing"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704337855573</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Saad Java Projects 2">
+      <created>1704338363299</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704338363299</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Saad Java Projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Saad Java Projects" />
+    <MESSAGE value="Saad Java Projects 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Saad Java Projects 2" />
   </component>
 </project>
