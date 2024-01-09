@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7cf1c6c-4c1c-4c60-82f3-ae9f2ca12206" name="Changes" comment="Saad Java Projects 2">
-      <change afterPath="$PROJECT_DIR$/src/DigitalClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GraphicalDigitalClock.java" afterDir="false" />
+    <list default="true" id="c7cf1c6c-4c1c-4c60-82f3-ae9f2ca12206" name="Changes" comment="Pusshing analog and Digital Clock">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/weka.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WekaDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UniMel_2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UniMel_2024.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +52,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Owner/IdeaProjects/Sem3_JAVAbyDoing"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Program Files/Weka-3-8-6/weka.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\IdeaProjects\Sem3_JAVAbyDoing\.idea\Sem_3JavabyLearningbook" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704338363299</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pusshing analog and Digital Clock">
+      <created>1704338972335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704338972335</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Saad Java Projects" />
     <MESSAGE value="Saad Java Projects 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Saad Java Projects 2" />
+    <MESSAGE value="Pusshing analog and Digital Clock" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pusshing analog and Digital Clock" />
   </component>
 </project>
